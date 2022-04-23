@@ -1,0 +1,12 @@
+//program to print 1 
+#include<stdio.h>
+int main()
+{
+      int i;
+      // Loop -- 3type while, for,do while
+      i=1;// iniaialization 
+      while(i=1 )//condition 
+      {
+          printf("1");
+          i++;//i=i+1
+      }
